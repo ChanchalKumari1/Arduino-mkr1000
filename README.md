@@ -132,12 +132,8 @@ TROUBLESHOOTING
 
   Strip flickers                 Add a 1000 µF capacitor across VCC/GND on the
                                  strip, and a 300 Ω resistor on the data line.
-
-
-      =======================================================================
-                                                          
-
-                              
+                                 
+--------------------------------------------------------------------------------
 
 
 video and images link 
