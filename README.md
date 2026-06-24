@@ -35,7 +35,12 @@ Wiring
   5V supply      -->  LED strip VCC
   GND (shared)   -->  LED strip GND + MKR1000 GND
 
-<img width="989" height="425" alt="MKR1000_ledstrip" src="https://github.com/user-attachments/assets/f98540cd-26b0-489f-8617-c04dcb9921e6" />
+<img width="989" height="425" alt="connection diagram" src="https://github.com/user-attachments/assets/22c483b0-49ee-48eb-af6a-fca436bc8977" />
+
+
+<img width="3024" height="4032" alt="MKR 1000 WiFi _1" src="https://github.com/user-attachments/assets/25a79fd6-30b0-4832-87ba-559bf7f08a67" />
+
+<img width="768" height="1024" alt="MKR 1000 WiFi with LED" src="https://github.com/user-attachments/assets/8198526e-771c-4d11-952f-a0a4096b0e92" />
 
 --------------------------------------------------------------------------------
 SOFTWARE / LIBRARY REQUIREMENTS
@@ -90,6 +95,7 @@ HOW TO USE
        - The color preview circle updates live.
        - Tap a preset button to jump to a common color instantly.
        - Press "Apply Color" to send a custom slider color to the strip.
+<img width="1344" height="680" alt="webpage" src="https://github.com/user-attachments/assets/76332b02-40a0-40ea-890f-511a1fd02580" />
 
 --------------------------------------------------------------------------------
 PROJECT STRUCTURE
