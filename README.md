@@ -144,3 +144,5 @@ TROUBLESHOOTING
 
 video and images link 
 https://drive.google.com/drive/folders/1Ttq-nWlZMDxtRtFysJdTIaGA4gzmSMWI?usp=sharing
+
+If you're looking for an experienced [arduino programmer for hire](https://digitalmonk.biz/hire-arduino-developer/), this Arduino MKR1000 project demonstrates practical IoT development using Wi-Fi connectivity, sensor integration, and embedded system programming.
